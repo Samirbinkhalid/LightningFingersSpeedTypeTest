@@ -1,0 +1,38 @@
+{
+  "easy": [
+    "The cat sat on the mat.",
+    "I like to eat apples.",
+    "He runs fast every day.",
+    "The sun is bright in the sky.",
+    "She plays with her dog.",
+    "We went to the park today.",
+    "They are happy to see us.",
+    "My car is red and shiny.",
+    "The birds sing in the trees.",
+    "It is fun to jump and play."
+  ],
+  "medium": [
+    "The curious fox jumped over the tall fence.",
+    "I enjoy reading books on rainy afternoons.",
+    "The baker carefully placed the bread in the oven.",
+    "Yesterday, we visited a beautiful art gallery.",
+    "The children laughed loudly as they played outside.",
+    "She found a hidden treasure buried in the sand.",
+    "Our teacher explained the math problem very clearly.",
+    "The train arrived late because of the heavy rain.",
+    "He bought a new bicycle for his younger brother.",
+    "The garden was filled with colorful flowers and butterflies."
+  ],
+  "hard": [
+    "The extraordinary performance by the orchestra left the audience in awe.",
+    "Despite his meticulous preparation, unforeseen circumstances disrupted his plans.",
+    "The dazzling constellation sparkled brilliantly against the vast, dark canvas of the night sky.",
+    "She navigated the labyrinthine alleyways with a confidence born of familiarity.",
+    "The professor’s explanation of quantum mechanics was both fascinating and perplexing.",
+    "As the storm raged outside, the family huddled together for warmth and comfort.",
+    "An intricate web of deceit was gradually unraveled by the astute detective.",
+    "The juxtaposition of modern architecture and ancient ruins was truly breathtaking.",
+    "With unwavering determination, she pursued her ambitious goals despite numerous setbacks.",
+    "The resplendent sunrise painted the horizon with hues of gold, crimson, and lavender."
+  ]
+}
